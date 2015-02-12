@@ -1,0 +1,19 @@
+
+message FriendMessage
+{
+	required uint32 fromuid =1;
+	required uint32 touid =2;
+	required uint32 servermessageid =3;
+	required uint32 clientmessageid =4;
+	required uint32 servertime =5;
+	required uint32 clienttime =6;
+	required uint32 messagetype =7;
+	
+	optional string content =8;
+	optional uint32 fontdefault =9;
+	optional string fontface =10;
+	optional uint32 fontsize =11;
+	optional uint32 fontcolor =12;
+	optional uint32 fontflag =13;
+}
+
