@@ -1,4 +1,6 @@
-ios 学习之路
+
+##ios 学习之路
+
 
 
 > 欢迎转载，但请务必在明确位置注明出处！
@@ -27,7 +29,8 @@ http://tryobjectivec.codeschool.com/
 
 
 # 3 进阶
-<<Objective-C程序设计>> 第6版，作者 S G K.
+
+> <<Objective-C程序设计>>   第6版，作者 S G K.
 
  
 # 4 关于我
