@@ -2,7 +2,7 @@ ios 学习之路
 
 
 > 欢迎转载，但请务必在明确位置注明出处！
-> https://github.com/dungeonsnd/publicdoc/blob/master/published/4_2015_ios_learning/learn-ios-from-rookie.txt
+> https://github.com/dungeonsnd/publicdoc/blob/master/published/4_2015_ios_learning/learn-ios-from-rookie.md
 > QQ交流群：入群理由请正确填写我的GitHub账号
 >  * 58632494 (IOS学习之路1群） 
 >
