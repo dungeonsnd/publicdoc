@@ -49,6 +49,7 @@ Level5 错误处理，NSCopying/copyWithZone ,  id类型。
 
 该文档讲解了如何完成一个简单的ToDoList的iphone app。
 文档核心是 数据和展示 之间的交互方法。笔者简单总结如下，
+
 a)   Create a Data Class 。  把ToDo列表中的一行描述成一个类，即ToDoItem
 
 b)  Load the Data 。 在列表的ViewController中创建Array来存储列表数据，并在viewDidLoad函数中初始化。
@@ -59,6 +60,9 @@ d) Toggle Item Completion State。 修改函数 didSelectRowAtIndexPath, 修改�
 
 e) Add New Items。AddToDoItemViewController添加属性，添加 text field和Save button  的事件关联，在Save Button的响应函数 prepareForSegue:中创建ToDoItem。在ToDoListTableViewController的unwindToList:中把新创建的ToDoItem加入到Array，并使列表刷新。
 
+
+
+![Alt text](./60607300-27EA-4E52-9C3C-AF4792778EFA.png)
 
 
 
