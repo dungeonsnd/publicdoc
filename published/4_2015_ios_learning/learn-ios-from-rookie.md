@@ -62,7 +62,7 @@ e) Add New Items。AddToDoItemViewController添加属性，添加 text field和S
 
 
 
-![Alt text](./60607300-27EA-4E52-9C3C-AF4792778EFA.png)
+![image](https://github.com/dungeonsnd/publicdoc/edit/master/published/4_2015_ios_learning/snap.png)
 
 
 
